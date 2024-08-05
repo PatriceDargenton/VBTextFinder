@@ -396,3 +396,22 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Dossiers à ignorer
+Archives
+Bak
+Tmp
+Codes
+
+*.bat
+VBTextFinder.idx
+VBTextFinder.ini
+VBTextFinder-ini.bak
+VBTextFinderTmp.html
+VBTextFinder.xml
+VBTextFinder.exe
+VBTextFinder.exe.config
+VBTextFinder.doc
+VBTextFinder.html
+VBTextFinder.vbproj.html
+VBTextFinder.vbproj.ini

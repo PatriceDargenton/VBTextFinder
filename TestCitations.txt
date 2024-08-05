@@ -1,0 +1,7 @@
+Voici une " citation 1 ". Voici une ‘ citation 2 ’.
+Voici une “ citation 3 ”.
+Voici une ` citation 4 ´. Voici une ‹ citation 5 ›. Voici une « citation 6 ».
+' Voici une citation 7 '.
+Voici une "imbrication de deux "citations" avec le même délimiteur", cela ne fonctionne pas bien.
+Voici une "imbrication de deux « citations » avec deux délimiteurs distincts", cela fonctionne bien.
+"Voici une citation qui s'étend sur deux phrases : cela ne fonctionne pas."

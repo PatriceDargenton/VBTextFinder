@@ -1,0 +1,1 @@
+Structure Table Access n°;Struc.Table;Table Access n°;Table;Module VBA Access n°;ModVBA;Formulaire VBA Access n°;FrmVBA;Etat VBA Access n°;EtatVBA;Définition Requête Access n°;DefRq;Requête Access n°;Rq;Requêtes systèmes Access;RqSys;Définition Requête système Access n°;DefRqSys;Objets Access et Propriétés;ObjMdb;Macro Access n°;McVBA
