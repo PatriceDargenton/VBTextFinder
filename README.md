@@ -4,11 +4,15 @@ Un moteur de recherche de mot dans son contexte
 VBTextFinder permet de retrouver l'ensemble des phrases (et paragraphes) contenant un mot donné que l'on recherche dans un corpus documentaire préalablement indexé (un corpus est un ensemble cohérent de documents). Pour retrouver dans quel document a été trouvé chaque occurrence, un code mnémonique unique par document est stocké dans un fichier ini.
 
 ## Table des matières
+- [Utilisation](#utilisation)
 - [Fonctionnalités](#fonctionnalités)
 - [Limitations](#limitations)
 - [Projets](#projets)
 - [Versions](#versions)
 - [Liens](#liens)
+
+## Utilisation
+Lancer VBTextFinder en mode administrateur, ajouter le menu contextuel via le bouton + dans l'onglet Config., quitter VBTextFinder, puis selectionner un dossier ou un fichier Word dans l'explorateur de fichier, et avec le bouton droit de la souris, faite "Indexer pour une recherche (VBTF)" (avec Windows 11, il faudra appuyer sur la touche majuscule pour afficher directement ce menu, sinon il faudra d'abord afficher le menu Autres options).
 
 ## Fonctionnalités
 
