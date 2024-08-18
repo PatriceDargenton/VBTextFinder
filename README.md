@@ -1,5 +1,6 @@
 # VBTextFinder
 Un moteur de recherche de mot dans son contexte
+---
 
 VBTextFinder permet de retrouver l'ensemble des phrases (et paragraphes) contenant un mot donné que l'on recherche dans un corpus documentaire préalablement indexé (un corpus est un ensemble cohérent de documents). Pour retrouver dans quel document a été trouvé chaque occurrence, un code mnémonique unique par document est stocké dans un fichier ini.
 
