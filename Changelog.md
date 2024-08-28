@@ -2,6 +2,11 @@
 
 Toutes les modifications notables apportées au projet VBTextFinder sont documentées dans ce fichier.
 
+## [1.26] - 2024-08-28
+### Corrigé
+- Src\app.config -> app.config ;
+- .NET Framework 4.5.1 -> 4.8.
+
 ## [1.25] - 2024-08-05 Première version sur GitHub
 ### Corrigé
 - Correction d'un bug lors de l'affichage html.

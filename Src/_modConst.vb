@@ -3,7 +3,7 @@ Module _modConst
 
     Public ReadOnly sNomAppli$ = My.Application.Info.Title '"VBTextFinder"
     Public ReadOnly sTitreMsg$ = sNomAppli
-    Private Const sDateVersionVBTF$ = "05/08/2024"
+    Private Const sDateVersionVBTF$ = "28/08/2024"
     Public Const sDateVersionAppli$ = sDateVersionVBTF
 
 #If DEBUG Then
