@@ -2,6 +2,10 @@
 
 Toutes les modifications notables apportées au projet VBTextFinder sont documentées dans ce fichier.
 
+## [1.27] - 2025-01-12
+### Corrigé
+- Bug "Espace mémoire insuffisant" avec .FirstLineIndent = 0 et .CharacterUnitFirstLineIndent = 0 sur des documents provenant d'un export Wikisource.
+
 ## [1.26] - 2024-08-28
 ### Corrigé
 - Src\app.config -> app.config ;

@@ -33,6 +33,7 @@ Module modUtilitairesLiaisonTardive
             Application.DoEvents() : Cursor.Current = Cursors.WaitCursor
 
             oWrdH.oWrd.Visible = False
+            'If bDebug Then oWrdH.oWrd.Visible = True
 
             msgDelegue.AfficherMsg("Ouverture du fichier " &
                 sCheminFichierSelect & "...")
@@ -90,6 +91,9 @@ Module modUtilitairesLiaisonTardive
 
                 .SpaceBeforeAuto = False
                 .SpaceAfterAuto = False
+
+                ' https://stackoverflow.com/questions/13876959/word-2003-vba-how-do-you-disable-word-has-insufficient-memory-warning
+                oWrdH.oWrd.ActiveDocument.UndoClear ' 12/01/2025
                 .FirstLineIndent = 0 'CentimetersToPoints(0)
 
                 ' Solution trouvée à ce bug : supprimer tous les signets cachés 

@@ -171,7 +171,7 @@ Module modUtilVBTF_LT
             bCreerDocIndex2 = True
 
         Catch ex As Exception
-            AfficherMsgErreur2(ex, "bConvertirDocEnTxt2")
+            AfficherMsgErreur2(ex, "bCreerDocIndex2")
 
         Finally
             If Not IsNothing(oWrdH.oWrd) Then
