@@ -13,4 +13,4 @@ Imports System.Reflection
 <Assembly: AssemblyTrademark("VBTextFinder")>
 <Assembly: AssemblyCulture("")>
 
-<Assembly: AssemblyVersion("1.2.7.*")>
+<Assembly: AssemblyVersion("1.2.8.*")>

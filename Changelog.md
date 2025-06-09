@@ -2,6 +2,10 @@
 
 Toutes les modifications notables apportées au projet VBTextFinder sont documentées dans ce fichier.
 
+## [1.28] - 2025-06-09
+### Corrigé
+- Windows 11 : Ne pas lancer notepad.exe (qui a changé), ouvrir plutôt l'application associée aux fichiers .ini
+
 ## [1.27] - 2025-01-12
 ### Corrigé
 - Bug "Espace mémoire insuffisant" avec .FirstLineIndent = 0 et .CharacterUnitFirstLineIndent = 0 sur des documents provenant d'un export Wikisource.
