@@ -2,9 +2,9 @@
 
 Toutes les modifications notables apportées au projet VBTextFinder sont documentées dans ce fichier.
 
-## [1.28] - 2025-06-09
+## [1.28] - 2025-06-13
 ### Corrigé
-- Windows 11 : Ne pas lancer notepad.exe (qui a changé), ouvrir plutôt l'application associée aux fichiers .ini
+- Windows 11 : lancer notepad.exe de façon recommandée, pour ouvrir les fichiers .ini
 
 ## [1.27] - 2025-01-12
 ### Corrigé
